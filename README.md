@@ -1,2 +1,3 @@
 # Expanding-Cards
-###Prject Notes
+### Project Notes
+#### this is an expanding cards web projects that shows an amazing transitions between cards (HTML, CSS, JS)
